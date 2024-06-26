@@ -1,0 +1,5 @@
+2024-06-24 16:27:58,662 - exampleApp - INFO - Program started
+2024-06-24 16:27:58,662 - exampleApp - INFO - Program finished
+2024-06-24 16:30:42,662 - exampleApp - INFO - Program started
+2024-06-24 16:30:42,662 - exampleApp.more_complex_logger_other_mod.add - INFO - Adding 7 and 8 to get 15
+2024-06-24 16:30:42,662 - exampleApp - INFO - Program finished

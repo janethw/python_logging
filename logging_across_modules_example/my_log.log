@@ -1,0 +1,6 @@
+2024-06-26 20:26:35,867 - __main__ - INFO - Starting the record_word_count function
+2024-06-26 20:26:35,868 - lower_module - DEBUG - Number of words: 9
+2024-06-26 20:26:35,868 - __main__ - DEBUG - Ending the record_word_count function for the file ../my_test_file.txt
+2024-06-26 20:26:35,868 - __main__ - INFO - Starting the record_word_count function
+2024-06-26 20:26:35,868 - lower_module - ERROR - Unable to open file: [Errno 2] No such file or directory: 'my_non_existent_file.txt'
+2024-06-26 20:26:35,868 - __main__ - DEBUG - Ending the record_word_count function for the file my_non_existent_file.txt

@@ -1,0 +1,8 @@
+ERROR:ex:An exception occurred: There has been a RuntimeError
+Traceback (most recent call last):
+  File "/Users/bluesky/PycharmProjects/learning_logging/simple_logger.py", line 10, in <module>
+    raise RuntimeError('There has been a RuntimeError')
+RuntimeError: There has been a RuntimeError
+INFO:root:This is an info message
+ERROR:root:This is an error message
+WARNING:root:This is a warning message
